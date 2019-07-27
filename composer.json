@@ -1,0 +1,12 @@
+{
+    "name": "naren/events.bhatuwa.com",
+    "authors": [
+        {
+            "name": "Naren",
+            "email": "developer.naren@gmail.com"
+        }
+    ],
+    "require": {
+        "react/http": "^0.8.4"
+    }
+}

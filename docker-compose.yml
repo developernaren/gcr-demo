@@ -1,0 +1,9 @@
+version: '3'
+services:
+  events.bhatuwa.com:
+    container_name: events.bhatuwa.com
+    build: .
+    ports:
+      - "8080:8080"
+
+
